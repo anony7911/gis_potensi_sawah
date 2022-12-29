@@ -9,7 +9,7 @@
   - open new terminal and run 'php artisan serve'
  
  #thanks
- # support me on:
-    - instagram : Alhilal Anwar
-    - youtube : @likeprogramming
+ ## support me on:
+    - instagram : [Alhilal Anwar](https://www.instagram.com/alhilalanwar)
+    - youtube : [Like Programming](https://www.youtube.com/@likeprogramming)
  
