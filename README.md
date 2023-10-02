@@ -12,5 +12,5 @@ Sistem informasi geografis (GIS) Potensi Persawahan menggunakan Framework Larave
  ## Thanks
  ## Support me on:
    - instagram : [Alhilal Anwar](https://www.instagram.com/alhilalanwar/)
-   - youtube : [Like Programming](https://www.youtube.com/@mautautekno)
+   - youtube : [MauTau](https://www.youtube.com/@mautautekno)
  
